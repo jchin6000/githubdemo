@@ -5,8 +5,8 @@ def add(a, b):
 def sub(a, b):
 	return a - b
 
-def mul(a, b):
-	return 0 #TODO: Your code here
+def mul(a * b):
+	return a *b #TODO: Your code here
 
 def div(a, b):
 	return a / b
